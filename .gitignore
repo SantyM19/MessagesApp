@@ -1,0 +1,8 @@
+
+target/classes/.netbeans_automatic_build
+
+target/classes/
+
+*.lst
+
+target/test-classes/
